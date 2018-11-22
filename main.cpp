@@ -1,12 +1,11 @@
-//Programme d'Antoine Laroye (aka Laroye Arthur), Thomas Barthélémy (aka Bartoche), Rémy Maige (aka Retho) et Gaétan Moisson-Franckhauser (aka CubicOtter)
+//Programme d'Antoine Laroye, Thomas Barthélémy, Rémy Maige et Gaétan Moisson-Franckhauser
 #include <iostream>
-
 using namespace std;
 
 int main()
 {
   cout<<"Salut c'est cool"<<endl;
-  cout<<"J'adore le zboub"<<endl;
   cout<<"Thomas est très beau"<<endl;
+  cout<<"Éditer à plusieurs, quelle réussite !"<<endl;
   return 0;
 }
