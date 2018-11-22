@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-  cout<<"J'suis dans sa mère la pute";
+  cout<<"T'es dans ta jalousie, je suis dans ta mère la pute"<<endl;
   return 0;
 }
