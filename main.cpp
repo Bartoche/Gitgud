@@ -7,5 +7,6 @@ int main()
 {
   cout<<"Salut c'est cool"<<endl;
   cout<<"J'adore le zboub"<<endl;
+  cout<<"Thomas est très beau"<<endl;
   return 0;
 }
