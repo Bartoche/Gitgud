@@ -5,11 +5,7 @@ using namespace std;
 
 int main()
 {
-<<<<<<< HEAD
-  cout<<"T'es dans ta jalousie, je suis dans ta mère la pute"<<endl;
-  cout<<"Suce bien mon chibre";
-=======
   cout<<"Salut c'est cool"<<endl;
->>>>>>> 702018af3d4b9e057f635e1a5a2639072adc67bd
+  cout<<"J'adore le zboub"<<endl;
   return 0;
 }
